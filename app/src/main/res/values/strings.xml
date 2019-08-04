@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WANTED_VINYL...</string>
+    <string name="mapAPI" translatable="false">AIzaSyCZRaRrnNp_dDAWF9PnTnGJ6GEMecQPJpA</string>
+    <string name="searchBarHit">What are you looking for?</string>
+</resources>
